@@ -1,0 +1,1 @@
+cmdMan.d: ../cmdMan.c

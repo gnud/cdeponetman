@@ -1,0 +1,1 @@
+cmdList.d: ../cmdList.c
