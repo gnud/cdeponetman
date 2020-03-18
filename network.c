@@ -12,7 +12,7 @@
 int
 main(int argc, char **argv)
 {
-  unsigned int port = 8080;
+  unsigned int port = 8090;
 
   int sock = CreateTCPServerSocket(port);
   AcceptTCPConnection(sock);
