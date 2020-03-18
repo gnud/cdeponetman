@@ -6,10 +6,12 @@ Crashes on random commands, which worked fine hundred years ago.
 # Ubuntu
 
 ## Requirements:
-sudo apt install libmxml-dev
+
+```sudo apt install libmxml-dev```
 
 
 # MakeFile generated using
+
 http://solver.assistedcoding.eu/makefilegen
 
 # Build
@@ -22,7 +24,7 @@ make
 
 # Usage
 
-./project # Run server
+```./project # Run server```
 
 In another terminal
 
